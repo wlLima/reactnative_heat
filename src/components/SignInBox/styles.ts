@@ -7,6 +7,6 @@ export const styles = StyleSheet.create({
         alignItems: 'center',
         justifyContent: 'center',
         paddingHorizontal: 20,
-        PaddingBottom: getBottomSpace() + 32
+        paddingBottom: getBottomSpace() + 32
     }
 });
